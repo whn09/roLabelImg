@@ -108,9 +108,9 @@ OS X
 
 .. code::
 
-    brew install qt qt4
+    brew install qt qt5
     brew install libxml2
-    make all
+    make qt5py3
     ./roLabelImg.py
     ./roLabelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
 
